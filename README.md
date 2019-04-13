@@ -37,11 +37,9 @@ You can now login with your admin account( Username: admin ; Password: admin ) b
 ## Contact
 Some of my links..
 
-* **Email:** gfabruno@gmail.com 
-* **Website:** [GrohsFabian.com](https://grohsfabian.com)
-* **Twitter:** [@GrohsFabian](https://twitter.com/grohsfabian)
-* **My envato portfolio:** [altumcode/portfolio](https://codecanyon.net/user/altumcode/portfolio)
-* **Instagram Dev Page:** [@motivational.coder](https://instagram.com/motivational.coder)
+* **Website:** [AltumCode.io](https://altumcode.io)
+* **Twitter:** [@GrohsFabian](https://twitter.com/altumcode)
+* **Other Products :** [altumcode/portfolio](https://codecanyon.net/user/altumcode/portfolio)
 
 ## Extra
 Shoutout to [MCAPI.US](https://mcapi.us/) for having a great API :)
